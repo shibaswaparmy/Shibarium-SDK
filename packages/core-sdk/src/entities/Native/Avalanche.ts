@@ -13,6 +13,7 @@ export class Avalanche extends NativeCurrency {
     const wnative = WNATIVE[this.chainId]
     invariant(!!wnative, 'WRAPPED')
     return wnative
+    
   }
 
   private static _cache: { [chainId: number]: Avalanche } = {}

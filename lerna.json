@@ -10,7 +10,7 @@
     "publish": {
       "npmClient": "yarn",
       "allowBranch": [
-        "main"
+        "yarn"
       ],
       "registry": "https://registry.npmjs.org/"
     }
