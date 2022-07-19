@@ -34,4 +34,5 @@ export enum ChainId {
   KAVA = 2222,
   METIS = 1088,
   SHIBARIUM= 7352,
+  SHIBARIUMTEST=4354
 }
