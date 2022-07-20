@@ -4,12 +4,13 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "author": "rupeshv",
   "files": [
     "dist"
   ],
   "module": "dist/core-sdk.esm.js",
   "repository": {
-    "url": "shibarium/sdk",
+    "url": "https://github.com/shibaswaparmy/Shibarium-SDK",
     "directory": "packages/core-sdk"
   },
   "publishConfig": {
