@@ -32,5 +32,6 @@ export enum ChainKey {
   OPTIMISM = 'optimism',
   KAVA = 'kava',
   METIS = 'metis',
-  SHIBARIUM= 'shibarium'
+  SHIBARIUM= 'shibarium',
+  PUPPY_NET= 'puppy-net'
 }
