@@ -33,5 +33,6 @@ export enum ChainKey {
   KAVA = 'kava',
   METIS = 'metis',
   PUPPYNET = 'puppy-net',
-  PUPPYNET517 = 'puppy-net-517'
+  PUPPYNET517 = 'puppy-net-517',
+  PUPPYNET917= 'puppy-net-917'
 }
