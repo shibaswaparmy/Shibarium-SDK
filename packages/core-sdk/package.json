@@ -1,6 +1,6 @@
 {
   "name": "shibarium-get-chains",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,7 +33,8 @@
     "jsbi": "^4.1.0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.0",
-    "toformat": "^2.0.0"
+    "toformat": "^2.0.0",
+    "tsup": "6.6.3"
   },
   "devDependencies": {
     "@types/big.js": "^6.1.0",
